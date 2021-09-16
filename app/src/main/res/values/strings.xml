@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Financiera</string>
+    <string name="precio">Precio:</string>
+    <string name="resultado">Resultado:</string>
+    <string name="ingrese_el_precio">Ingrese el precio</string>
+    <string name="valorResultado">$</string>
+    <string name="agregar_nuevo_tipo_de_moneda">Agregar nuevo tipo de moneda</string>
+    <string name="ingrese_el_tipo_de_moneda">Ingrese el tipo de moneda</string>
+    <string name="igrese_su_valor">Igrese su valor</string>
+    <string name="agregar_moneda">Agregar moneda</string>
+    <string name="agregar_monedas">Agregar Monedas</string>
+    <string name="lblAlert1">Debe ingresar un valor en pesos a convertir!</string>
+    <string name="lblAlert2">Tiene que ingresar una nueva moneda</string>
+</resources>
